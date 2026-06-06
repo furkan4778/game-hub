@@ -4,7 +4,7 @@ Modern ve responsive bir oyun keşif sitesi. Kullanıcıların oyun kategorileri
 
 ## 🌐 Canlı Demo
 
-
+https://furkan4778.github.io/game-hub/
 
 ## 🛠️ Kullanılan Teknolojiler
 
