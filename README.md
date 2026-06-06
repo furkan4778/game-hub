@@ -1,10 +1,10 @@
-# GEXORA
+# Game Hub
 
 Modern ve responsive bir oyun keşif sitesi. Kullanıcıların oyun kategorilerini keşfetmesini, popüler oyunları incelemesini ve yeni oyunlar bulmasını sağlayan bir arayüz projesidir.
 
 ## 🌐 Canlı Demo
 
-https://furkan4778.github.io/gexora
+
 
 ## 🛠️ Kullanılan Teknolojiler
 
